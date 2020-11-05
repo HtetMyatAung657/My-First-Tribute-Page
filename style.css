@@ -1,0 +1,27 @@
+#main{
+    background-color: gainsboro;
+    margin: 0%;
+}
+.Top{
+    text-align: center;
+    padding: 5px;
+}
+
+#img-div{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+}
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+h3{
+    text-align: center;
+}
+
+
+
+
